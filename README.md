@@ -42,7 +42,7 @@ Use shortcode `[explora_map]` to show the world map with markers.
 - None at this time
 
 ## Frontend
-- <a href="https://wordpress.org/" target="_blank">Wordpress</a> (PHP)
+- <a href="https://wordpress.org/" target="_blank">Wordpress</a> (PHP and JavaScript)
 
 ## Backend
 - <a href="https://wordpress.org/" target="_blank">Wordpress</a> (SQL database)
