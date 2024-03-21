@@ -14,8 +14,6 @@ Use shortcode `[explora_map]` to show the world map with markers.
 - No demo available - see screenshots
 
 ## Screenshots
-### Create Review
-![Create Review](/screenshots/create_post.png?raw=true "Create Review")
 
 ### Marker on Map
 ![Marker on Map](/screenshots/detail_map.png?raw=true "Marker on Map")
@@ -25,6 +23,10 @@ Use shortcode `[explora_map]` to show the world map with markers.
 
 ### Marker Clustering
 ![Marker Clustering](/screenshots/detail_map_clustering.png?raw=true "Marker Clustering")
+
+
+### Create Review
+![Create Review](/screenshots/create_post.png?raw=true "Create Review")
 
 ### Places Search Autocomplete
 ![Places Search Autocomplete](/screenshots/search_dropdown.png?raw=true "Places Search Autocomplete")
