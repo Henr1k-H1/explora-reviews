@@ -6,7 +6,7 @@
 /*
 Plugin Name: Explora Reviews
 Plugin URI: http://henr1k.com
-Description: This is a plugin to show posts on a google map
+Description: This is a plugin to show posts on a world map. Use shortcode [explora_map]
 Author: Henrik "Henr1k"
 Version: 1.0
 Author URI: http://henr1k.com
