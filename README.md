@@ -1,4 +1,4 @@
-# Explopra Reviews
+# Explora Reviews
 
 This WordPress plugin lets the user create custom posts (reviews) about hotels, bars, restaurants, or spas.
 
