@@ -18,7 +18,7 @@ Use shortcode `[explora_map]` to show the world map with markers.
 ### Marker on Map
 ![Marker on Map](/screenshots/detail_map.png?raw=true "Marker on Map")
 
-### Entire Map
+### Entire Map on Homepage
 ![Entire Map](/screenshots/map.png?raw=true "Entire Map")
 
 ### Marker Clustering
